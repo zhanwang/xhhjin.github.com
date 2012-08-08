@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mancao octopress blog"
+title: "蔓草札记的Octopress博客"
 date: 2012-08-05 13:03
 comments: true
 categories: 

@@ -7,7 +7,7 @@ title: 蔓草札记
 subtitle: 感受生活，感悟工作，感触心灵，许合欢的Octopress博客。
 author: xhhjin
 simple_search: http://google.com/search
-description:
+description: 你好，欢迎来到蔓草札记，记录、分享自己所闻所见，共同进步，享受每一天的生活。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -91,6 +91,9 @@ delicious_count: 3
 # Disqus Comments
 disqus_short_name:									#mancao
 disqus_show_comment_count: false		#true
+
+# Duoshuo Comments
+duoshuo_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
