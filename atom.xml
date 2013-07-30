@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[蔓草札记]]></title>
+  <title><![CDATA[网站推广]]></title>
   <link href="http://github.xuhehuan.com/atom.xml" rel="self"/>
   <link href="http://github.xuhehuan.com/"/>
   <updated>2012-08-11T12:42:50+08:00</updated>
@@ -14,17 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[蔓草札记的Octopress博客]]></title>
+    <title type="html"><![CDATA[网站推广博客]]></title>
     <link href="http://github.xuhehuan.com/blog/2012/08/05/mancao-octopress-blog/"/>
     <updated>2012-08-05T13:03:00+08:00</updated>
-    <id>http://github.xuhehuan.com/blog/2012/08/05/mancao-octopress-blog</id>
-    <content type="html"><![CDATA[<p>你来到的是蔓草札记的Octopress测试博客，主博客地址<a href="http://xuhehuan.com">http://xuhehuan.com</a>，欢迎访问！</p>
+    <id>http://zhanwang.github.com/blog/2012/08/05/mancao-octopress-blog</id>
+    <content type="html"><![CDATA[<p>你来到的是网站推广博客，主博客地址<a href="http://zhanwang.github.com">http://zhanwang.github.com</a>，欢迎访问！</p>
 
 
-<p>如果你也想要搭建一个自己的Octopress博客，可以看这里的教程——<a href="http://xuhehuan.com/783.html">在Github上搭建Octopress博客<a>。</p>
 
-
-<p><img src="http://github.xuhehuan.com/pic/mancao.jpg" alt="蔓草札记" width=351 height=487 /></p>
+<p><img src="http://github.xuhehuan.com/pic/mancao.jpg" alt="网站推广" width=351 height=487 /></p>
 
 
 
