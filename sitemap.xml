@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://github.xuhehuan.com/blog/2012/08/05/mancao-octopress-blog/</loc>
-        <lastmod>2012-08-08T17:27:04+08:00</lastmod>
+        <loc>http://zhanwang.github.com/blog/2013/07/30/seo/</loc>
+        <lastmod>2013-07-30T17:27:04+08:00</lastmod>
     </url>
     <url>
-        <loc>http://github.xuhehuan.com/about/</loc>
+        <loc>http://zhanwang.github.com/about/</loc>
         <lastmod>2012-08-08T13:50:12+08:00</lastmod>
     </url>
     <url>
-        <loc>http://github.xuhehuan.com/blog/archives/</loc>
+        <loc>http://zhanwang.github.com/blog/archives/</loc>
         <lastmod>2012-08-08T17:27:04+08:00</lastmod>
     </url>
     <url>
-        <loc>http://github.xuhehuan.com/</loc>
+        <loc>http://zhanwang.github.com</loc>
         <lastmod>2012-08-08T17:27:04+08:00</lastmod>
     </url>
 </urlset>
